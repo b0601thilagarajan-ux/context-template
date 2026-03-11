@@ -1,0 +1,26 @@
+@font-face {
+    font-family:'../fonts/Roboto Condensed';
+    src: url('../fonts/RobotoCondensed-Black.eot');
+    src: url('../fonts/RobotoCondensed-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RobotoCondensed-Black.woff2') format('woff2'),
+        url('../fonts/RobotoCondensed-Black.woff') format('woff'),
+        url('../fonts/RobotoCondensed-Black.ttf') format('truetype'),
+        url('../fonts/RobotoCondensed-Black.svg#RobotoCondensed-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Black.eot');
+    src: url('../fonts/Poppins-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Poppins-Black.woff2') format('woff2'),
+        url('../fonts/Poppins-Black.woff') format('woff'),
+        url('../fonts/Poppins-Black.ttf') format('truetype'),
+        url('../fonts/Poppins-Black.svg#Poppins-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
